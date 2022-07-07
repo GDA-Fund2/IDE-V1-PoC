@@ -1,0 +1,33 @@
+.navbar {
+  background-color: #03253c;
+  overflow: hidden;
+}
+
+.logo {
+  width: 80px;
+  height: 80px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main-title {
+  font-size: 30px;
+  font-weight: bold;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  margin-right: auto;
+  margin-left: 1%;
+}
+
+.metamask-logo {
+  width: 5%;
+  height: 5%;
+}
+
+body {
+  background-color: #000000;
+}
